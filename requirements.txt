@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+sentence-transformers
+torch
+pyarrow
